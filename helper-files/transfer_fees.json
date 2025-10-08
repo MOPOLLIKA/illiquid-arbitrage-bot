@@ -1,0 +1,37 @@
+{
+    "ETH": {
+        "network": "Arbitrum One",
+        "bybit": 0.00015,
+        "okx": 0.00004
+    },
+    "USDT": {
+        "network": "TON",
+        "bybit": 0.0,
+        "okx": 0.15
+    },
+    "TON": {
+        "network": "TON",
+        "bybit": 0.1,
+        "okx": 0.01
+    },
+    "HMSTR": {
+        "network": "TON",
+        "bybit": 80.0,
+        "okx": 30.0
+    },
+    "DOGS": {
+        "network": "TON",
+        "bybit": 50.0,
+        "okx": 50.0
+    },
+    "NOT": {
+        "network": "TON",
+        "bybit": 100.0,
+        "okx": 30.0
+    },
+    "CATI": {
+        "network": "TON",
+        "bybit": 2.0,
+        "okx": 0.04
+    }
+  }
